@@ -4,6 +4,9 @@ This repository contains the code and resources for a movie genre classification
 Introduction
 Movie genre classification is a fundamental task in the field of natural language processing and machine learning. It has various applications, including recommendation systems, content tagging, and search optimization. This project aims to build a robust movie genre classification model using state-of-the-art techniques.
 
+Dataset
+Link- https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
+
 Requirements
 Before running the project, ensure you have the following dependencies installed
 
